@@ -1,0 +1,10 @@
+pip install Flask
+
+# use '/' always for routes
+
+# How to run flask script file:
+## set FLASK_APP=hello  (if file name is not app.py) for Windows
+## flask run
+
+# To run development server (auto reflect wweb app changes):
+## set FLASK_ENV=development
