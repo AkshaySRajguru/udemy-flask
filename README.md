@@ -5,14 +5,14 @@
 
 # Run Flask Application
 ## Bash
- export FLASK_APP=flaskr
- export FLASK_ENV=development
- flask run
+ export FLASK_APP=flaskr <br />
+ export FLASK_ENV=development <br />
+ flask run <br />
 ## CMD
- set FLASK_APP=flaskr
- set FLASK_ENV=development
- flask run
+ set FLASK_APP=flaskr <br />
+ set FLASK_ENV=development <br />
+ flask run <br />
 ## Powershell
- $env:FLASK_APP = "flaskr"
- $env:FLASK_ENV = "development"
- flask run
+ $env:FLASK_APP = "flaskr" <br />
+ $env:FLASK_ENV = "development" <br />
+ flask run <br />
